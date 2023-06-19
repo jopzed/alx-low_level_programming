@@ -1,9 +1,9 @@
-#include "main.h"
+#include "holberton.h"
 /**
 * *_strcat - concatenates 2 strings
-* @dest:  target string
+* @dest: the target string
 * @src: what is being added
-* Return: returns  dest
+* Return: returns the dest
 */
 char *_strcat(char *dest, char *src)
 {

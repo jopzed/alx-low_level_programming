@@ -1,8 +1,8 @@
-#include "main.h"
+#include "holberton.h"
 /**
- * _memcpy - copies from the src to  dest
- * @dest:  dest
- * @src:  src
+ * _memcpy - copies from the src to the dest
+ * @dest: the dest
+ * @src: the src
  * @n: the amount to be copied
  * Return: the altered dest
  */

@@ -1,5 +1,5 @@
 /**
- * _isupper - print if  characters are lowercase or not
+ * _isupper - prints if the characters are lowercase or not
  * 0 for lowercase 1 for uppercase
  * @c: the character being tested
  * Return: 0 for lowercase, 1 for uppercase
